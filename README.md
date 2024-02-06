@@ -54,3 +54,12 @@
    ```
    
 6. En el editor de texto que prefiera, abra el archivo en `~/.ssh/config`. Si este archivo no existe, puede crearlo si escribe `touch ~/.ssh/config` en el terminal.
+
+7.Escriba el texto siguiente en el archivo y reemplace example.com el por nombre de dominio o IP del servidor:
+```
+Host example.com
+   ForwardAgent yes
+```
+8.Por último para comprobar la conexión hacemos un `ssh -T git@github.com`. Y debería poner lo siguiente `  Hi USERNAME! You've successfully authenticated, but GitHub does notprovide shell access.`
+
+9.Ahora al hacer el `git push origin main` no debería pedir la contraseña.
