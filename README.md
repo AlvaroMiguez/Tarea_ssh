@@ -8,7 +8,7 @@
    /home/username/.ssh/id_rsa already exists.Overwrite (y/n)?
    ```
    Una vez terminado aparecerá un mensaje como este:
-```
+   ```
    Your identification has been saved in /home/username/.ssh/id_rsa.
    Your public key has been saved in /home/username/.ssh/id_rsa.pub.
    The key fingerprint is:
@@ -25,6 +25,6 @@
    |. =++..          |
    |o=++.            |
    +-----------------+
-```
+   ```
 
 3. 
