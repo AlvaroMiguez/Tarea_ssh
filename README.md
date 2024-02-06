@@ -10,21 +10,21 @@
    Una vez terminado aparecerá un mensaje como este:
 ```
    Your identification has been saved in /home/username/.ssh/id_rsa.
-Your public key has been saved in /home/username/.ssh/id_rsa.pub.
-The key fingerprint is:
-a9:49:2e:2a:5e:33:3e:a9:de:4e:77:11:58:b6:90:26 username@remote_host
-The key's randomart image is:
-+--[ RSA 2048]----+
-|     ..o         |
-|   E o= .        |
-|    o. o         |
-|        ..       |
-|      ..S        |
-|     o o.        |
-|   =o.+.         |
-|. =++..          |
-|o=++.            |
-+-----------------+
+   Your public key has been saved in /home/username/.ssh/id_rsa.pub.
+   The key fingerprint is:
+   a9:49:2e:2a:5e:33:3e:a9:de:4e:77:11:58:b6:90:26 username@remote_host
+   The key's randomart image is:
+   +--[ RSA 2048]----+
+   |     ..o         |
+   |   E o= .        |
+   |    o. o         |
+   |        ..       |
+   |      ..S        |
+   |     o o.        |
+   |   =o.+.         |
+   |. =++..          |
+   |o=++.            |
+   +-----------------+
 ```
 
 3. 
